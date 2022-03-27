@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/RammeDon/lab4_heroku.git"
   },
-  "keywords": ["heroku", "lab 4"],
+  "keywords": ["heroku"],
   "author": "Ramin",
   "license": "ISC",
   "bugs": {
